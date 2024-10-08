@@ -751,7 +751,7 @@ grid-template-rows: 150px 150px 150px;
 }
 .tile{
 background: url(https://images.unsplash.com/photo-1573152565405-f24a2b508023?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80);
-font-weight:900;
+font-weight:200px;
 font-family: 'Bruno Ace', cursive;
 font-size:2em;
 background-size:450px 450px;
@@ -805,7 +805,7 @@ border-radius: 10px;
 
 }
 h2{
-    text-align:center;
+    text-align:auto;
     padding:5px;
 }
 .buttonGroup{
